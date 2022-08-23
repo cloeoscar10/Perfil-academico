@@ -1,6 +1,7 @@
 # Perfil académico
 **Nombre**: Oscar Vásquez Bolaños  
 **Profesión**: Biólogo  
+![](Dragonfliy.jpg)
 
 ## Áreas de interés
 1. Manejo Integrado del recurso hídrico
