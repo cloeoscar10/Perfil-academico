@@ -8,6 +8,7 @@
 3. Conservación
 
 ### Cursos impartidos
-- Biología trpopical  
+- Biología trópical
+    -Laboratorio de biología tropical  
 - Ciencias ambiental  
 - Cambio clímatico  
