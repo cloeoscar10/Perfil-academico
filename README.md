@@ -9,6 +9,6 @@
 
 ### Cursos impartidos
 - Biología trópical
-    -Laboratorio de biología tropical   
+-     Laboratorio de biología tropical   
 - Ciencias ambiental  
 - Cambio clímatico  
