@@ -12,3 +12,4 @@
     - Laboratorio de biología tropical   
 - Ciencias ambiental  
 - Cambio clímatico  
+[Maestría GIRH](https://www.sep.ucr.ac.cr/posgrados/geografia/folleto/maestria_academica_recurso_hidrico.pdf)
