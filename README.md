@@ -2,7 +2,7 @@
 **Nombre**: Oscar Vásquez Bolaños  
 **Profesión**: Biólogo  
 ![](Dragonfliy.jpg)
-<img src="Dragonfliy.jpg" alt="Dragonfliy" style="width:400px;height:300px;">
+<img src="Dragonfliy.jpg" alt="Dragonfliy" style="width:500px;height:400px;">
 ## Áreas de interés
 1. Manejo Integrado del Recurso Hídrico
 2. Biodiversidad
