@@ -4,7 +4,7 @@
 ![](Dragonfliy.jpg)
 <img src="Dragonfliy.jpg" alt="Dragonfliy" style="width:400px;height:300px;">
 ## Áreas de interés
-1. Manejo Integrado del recurso hídrico
+1. Manejo Integrado del Recurso Hídrico
 2. Biodiversidad
 3. Conservación
 
@@ -13,4 +13,4 @@
     - Laboratorio de biología tropical   
 - Ciencias ambiental  
 - Cambio clímatico  
-[Maestría GIRH](https://www.sep.ucr.ac.cr/posgrados/geografia/folleto/maestria_academica_recurso_hidrico.pdf)
+- Cursando actualmente [Maestría GIRH](https://www.sep.ucr.ac.cr/posgrados/geografia/folleto/maestria_academica_recurso_hidrico.pdf)
